@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[这是一篇测试文章]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-12-06T03:42:22.069Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[Jun ge]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2015/12/06/min/"/>
+    <id>http://yoursite.com/2015/12/06/min/</id>
+    <published>2015-12-06T03:42:22.112Z</published>
+    <updated>2015-12-06T03:42:22.069Z</updated>
+    <content type="html"><![CDATA[<p>自用Windows系统的软件推荐</p>
+<p>从XP到Win 7，再到Win 10系统，系统版本升级不知道多少次，但是软件用的越来越少。能一直用下去的，都是个人非常喜欢的。<br>PS：个人非常喜欢官方版本，不喜欢在第三方下载。不过，很多软件都是收费的，个人的经验就是官方下载，第三方破解，嘻嘻…<br>系统类软件<br>软件名称    下载地址    百度网盘    使用理由<br>QQ输入法    官方下载    百度网盘下载    虽然现在更多使用的是搜狗输入法，但个人还是喜欢QQ的<br>电脑管家    官方下载    百度网盘下载    现在更多人使用的都是360，但个人真心不喜欢。之前用过百度的，还不错。感觉还是腾讯的比较好用，个人不建议使用杀毒。因为这个已经集成了。<br>QQ桌面    官方下载    百度网盘下载    对于我这种有强迫症的，真心不喜欢桌面上各种图标。一键收录，干干净净<br>WinRAR    官方下载    百度网盘32位下载 百度网盘64位下载    说到解压缩软件，应该没有比WinRAR更好用的啦。目前个人版是免费的，不过有广告！<br>WPS    官方下载    百度网盘下载    office的话，应该还是微软的，不过wps也是一个不错的替代品。<br>常用类软件<br>软件名称    下载地址    百度网盘    使用理由<br>QQ影音    官方下载    百度网盘下载    影音类有很多，不过由于个人经常要看一些技术视频，QQ影音可以快速播放，提交效率。<br>bdreader    官方下载    百度网盘下载    推荐理由：小巧方便<br>Xmind    官方下载    百度网盘下载    思维导图软件，关键是免费，Java写的，真心喜欢<br>QQ旋风    官方下载    百度网盘下载    用这个下载的原因只是有会员<br>猎豹浏览器    官方下载    百度网盘下载    猎豹应该最早推出保存用户名和密码功能的，一直在用的原因也是因为这个（太多密码记不住啦！！！）<br>网易云音乐    官方下载    百度网盘下载    最初是在手机上使用，后来知道有了PC版，就毫不犹豫的下载了。<br>为知笔记    官方下载    百度网盘下载    一款笔记类软件，最大特点就是支持代码高亮。<br>MarkdownPad2    官方下载    百度网盘下载    目前Windows操作系统最好用的Markdown编辑器。<br>编程类软件<br>软件名称    下载地址    百度网盘    使用理由<br>Editplus    官方下载    百度网盘32位下载 百度网盘64位下载    这个其实很早就使用了，是一个不错的文本编辑器。（不过是收费滴！）<br>TortoiseSVN    官方下载    百度网盘下载    老牌版本控制软件，提供图形化界面，并且提供中文语言包。<br>Git    官方下载    百度网盘64下载 百度网盘32位下载    分布式版本控制软件，目前最流行的！<br>TortoiseGit    官方下载    百度网盘下载    Tortoise官方的又一力作，同样提供图形化界面，并且提供中文语言包。<br>node.js    官方下载    百度网盘64位下载 官方下载    一款目前最为流行的JavaScript引擎<br>WebStorm    官方下载    百度网盘下载    前端开发神器，无需解释！<br>Xampp    官方下载    百度网盘下载    上课使用的一款搭建PHP+MySQL环境的软件<br>Firefox开发者版    官方下载    百度网盘下载    开发者版的功能要比使用版多一些，更适合开发前端。<br>未完，待续…</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>自用Windows系统的软件推荐</p>
+<p>从XP到Win 7，再到Win 10系统，系统版本升级不知道多少次，但是软件用的越来越少。能一直用下去的，都是个人非常喜欢的。<br>PS：个人非常喜欢官方版本，不喜欢在第三方下载。不过，很多软件都是收费的，个人的经验就是官方]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/12/06/hello-world/"/>
+    <id>http://yoursite.com/2015/12/06/hello-world/</id>
+    <published>2015-12-06T02:43:59.714Z</published>
+    <updated>2015-12-06T02:43:59.714Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
